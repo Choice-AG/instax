@@ -1,0 +1,65 @@
+{
+  // Use IntelliSense para saber los atributos posibles.
+  // Mantenga el puntero para ver las descripciones de los existentes atributos.
+  // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "instax",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "instax (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "instax (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "user_post",
+      "cwd": "packages/user_post",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "user_post (profile mode)",
+      "cwd": "packages/user_post",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "user_post (release mode)",
+      "cwd": "packages/user_post",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "user_repository",
+      "cwd": "packages/user_repository",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "user_repository (profile mode)",
+      "cwd": "packages/user_repository",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "user_repository (release mode)",
+      "cwd": "packages/user_repository",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    }
+  ]
+}
